@@ -40,3 +40,16 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# 其他小程序相关文档
+[微信小程序部分功能踩坑指南](https://www.jianshu.com/p/0b2043ecd024)
+
+[微信小程序学习——快递信息查询](https://www.jianshu.com/p/39942b9d931d)
+
+
+
+# 参考文章
+
+[微信小程序使用swiper组件实现类3D轮播图](https://www.jb51.net/article/146456.htm)
+
+[小程序swiper组件实现不同效果间距轮播](https://blog.csdn.net/qq_33744228/article/details/82768432)
