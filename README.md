@@ -1,6 +1,8 @@
 # mpvue-swiper
 
-> 基于mpvue 轮播图
+> 基于mpvue 类3d效果轮播图
+
+![演示效果图](https://upload-images.jianshu.io/upload_images/9600426-05e119b9221d5a08.GIF?imageMogr2/auto-orient/strip)
 
 ## Build Setup
 
