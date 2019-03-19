@@ -4,6 +4,9 @@
 
 ![演示效果图](https://upload-images.jianshu.io/upload_images/9600426-05e119b9221d5a08.GIF?imageMogr2/auto-orient/strip)
 
+## 项目文档地址
+https://www.jianshu.com/p/31112b480982
+
 ## Build Setup
 
 ``` bash
